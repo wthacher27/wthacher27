@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=1D252C&color=539afc&line=5da1ad&point=034009&area=true&area_color=5da1ad&hide_border=true&v=citylights_v1" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=2e3436&color=e9e5d6&line=8da101&point=d75f5f&area=true&area_color=8da101&hide_border=true&v=earth_v1" width="100%" />
 </p>
 ---
 
