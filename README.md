@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=oceanic-next&area=true&v=1" width="100%" &v=1/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=oceanic-next&area=true&v=1" width="100%" &v=200/>
 </p>
 
 ---
