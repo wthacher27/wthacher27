@@ -15,10 +15,10 @@
   
   <img src="https://img.shields.io/badge/Angular-223030?style=for-the-badge&logo=angular&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/Spring_Boot-223030?style=for-the-badge&logo=springboot&logoColor=BBA58F" />
-  <img src="https://img.shields.io/badge/Java-223030?style=for-the-badge&logo=openjdk&logoColor=BBA58F" />
+  <img src="https://img.shields.io/badge/Java-223030?style=for-the-badge&logo=java&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/TypeScript-223030?style=for-the-badge&logo=typescript&logoColor=BBA58F" />
-  <img src="https://img.shields.io/badge/Python-223030?style=for-the-badge&logo=typescript&logoColor=BBA58F" />
-  <img src="https://img.shields.io/badge/React-223030?style=for-the-badge&logo=typescript&logoColor=BBA58F" />
+  <img src="https://img.shields.io/badge/Python-223030?style=for-the-badge&logo=python&logoColor=BBA58F" />
+  <img src="https://img.shields.io/badge/React-223030?style=for-the-badge&logo=react&logoColor=BBA58F" />
 </p>
 
 <p align="center">
