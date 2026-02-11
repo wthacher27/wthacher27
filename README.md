@@ -6,12 +6,13 @@
 
 ### 📊 GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&theme=radical&count_private=true&show=reviews,prs_merged,discussions_started&rank_icon=github" height="192px" />
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&theme=radical&count_private=true" height="192px" />
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&show=reviews,prs_merged&rank_icon=github" height="192px" />
+  
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true" height="192px" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=2e3436&color=e9e5d6&line=8da101&point=d75f5f&area=true&area_color=8da101&hide_border=true&v=earth_v1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=223030&color=E8D9CD&line=523D35&point=BBA58F&area=true&area_color=523D35&hide_border=true&v=earthy_pro_v1" width="100%" />
 </p>
 ---
 
