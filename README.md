@@ -1,7 +1,7 @@
 ## Hi there 👋
-[My Stats](https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&theme=radical)
 
-[Top Langs](https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs/?username=wthacher27&layout=compact&theme=vision-glow)
+![Top Langs](https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs/?username=wthacher27&layout=compact&theme=vision-glow)
 
 <!--
 **wthacher27/wthacher27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
