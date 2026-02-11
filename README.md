@@ -11,7 +11,8 @@
   <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true" height="192px" />
 </p>
 
-<p align="left">
+<p align="center">
+  
   <img src="https://img.shields.io/badge/Angular-223030?style=for-the-badge&logo=angular&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/Spring_Boot-223030?style=for-the-badge&logo=springboot&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/Java-223030?style=for-the-badge&logo=openjdk&logoColor=BBA58F" />
