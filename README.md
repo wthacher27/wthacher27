@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=1000&color=BBA58F&width=200&lines=📊+GitHub+Stats" />
 
 <p align="center">
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&rank_icon=true&hide=contribs,issues&include_all_commits=true&commits_year=2026" height="192px" />
+<img src="https://github-readme-stats-2026-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&include_all_commits=true&show=reviews,prs_merged,discussions_started&rank_icon=github" height="192px" />
   <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true" height="192px" />
 </p>
 
