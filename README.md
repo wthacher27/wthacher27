@@ -1,7 +1,5 @@
-#stuff
-
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&width=435&lines=Full+Stack+Developer;Building+the+future;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&width=435&lines=Full+Stack+Developer;;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,23 +16,9 @@
 </p>
 
 ---
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wthacher27&theme=radical&column=7&margin-w=15" alt="Trophies" />
-</p>
-
-<!--
-**wthacher27/wthacher27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on:
+- [Local Nerdle](https://github.com/wthacher27/Nerdle) - A local instance of Nerdle ,
+- [Vague fitness app](https://github.com/wthacher27/548) - Practice with angular and springboot
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me: will@thacher.net
 - ⚡ Fun fact: ...
--->
