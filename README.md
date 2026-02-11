@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=tokyonight&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=tokyonight&area=true&hide_border=true&custom_title=Contribution%20Momentum" width="100%" />
 </p>
 
 ---
 - 🔭 I’m currently working on:
    <span> [Local Nerdle](https://github.com/wthacher27/Nerdle) - A local instance of Nerdle </span>
-    [Vague fitness app](https://github.com/wthacher27/548) - Practice with angular and springboot
+    <span> [Vague fitness app](https://github.com/wthacher27/548) - Practice with angular and springboot </span>
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: will@thacher.net
