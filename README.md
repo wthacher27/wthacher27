@@ -1,6 +1,6 @@
 ## Hi there 👋<p align="center">
   <p align="center">
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged,discussions_started&rank_icon=github" alt="wthacher27's Lifetime Stats" height="192px" />
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&theme=radical&count_private=true&show=reviews,prs_merged,discussions_started&rank_icon=github" alt="Last Year's Stats" height="192px" />
 
   <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&theme=radical&count_private=true" alt="wthacher27's Languages" height="192px" />
 </p>
