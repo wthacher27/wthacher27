@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=tokyonight&area=true&hide_border=true&custom_title=Contribution%20Momentum" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=tokyonight&area=true&v=1" width="100%" />
 </p>
 
 ---
