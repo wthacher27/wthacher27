@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=181bc9&width=435&lines=Hi+there+I'm+Will;I+code+sometimes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5da1ad&width=435&lines=Hi+there+I'm+Will;I+code+sometimes" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=002240&color=ffee80&line=0088cc&point=ffffff&area=true&area_color=0088cc&hide_border=true&v=cobalt_v1" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=1D252C&color=539afc&line=5da1ad&point=e27e8d&area=true&area_color=5da1ad&hide_border=true&v=citylights_v1" width="100%" />
 </p>
 ---
 
