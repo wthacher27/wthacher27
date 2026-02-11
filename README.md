@@ -14,6 +14,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=oceanic-next&area=true&v=1" width="100%" &v=200/>
 </p>
+---
 [Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=tokyonight&area=true)
 ---
 - 🔭 I’m currently working on:
