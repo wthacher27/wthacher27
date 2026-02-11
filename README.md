@@ -17,7 +17,7 @@
 
 ---
 - 🔭 I’m currently working on:
-    [Local Nerdle](https://github.com/wthacher27/Nerdle) - A local instance of Nerdle 
+   <span> [Local Nerdle](https://github.com/wthacher27/Nerdle) - A local instance of Nerdle </span>
     [Vague fitness app](https://github.com/wthacher27/548) - Practice with angular and springboot
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: will@thacher.net
