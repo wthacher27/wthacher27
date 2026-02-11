@@ -5,7 +5,7 @@
 ---
 
 ### 📊 GitHub stats
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=tokyonight&area=true)
 <p align="center">
   <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&theme=radical&count_private=true&show=reviews,prs_merged,discussions_started&rank_icon=github" height="192px" />
   <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&theme=radical&count_private=true" height="192px" />
@@ -15,7 +15,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=oceanic-next&area=true&v=1" width="100%" &v=200/>
 </p>
 ---
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&theme=tokyonight&area=true)
+
 ---
 - 🔭 I’m currently working on:
    <span> [Local Nerdle](https://github.com/wthacher27/Nerdle) - A local instance of Nerdle </span>
