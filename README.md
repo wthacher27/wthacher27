@@ -5,9 +5,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&rank_icon=github&v=earth_final" height="192px" />
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&rank_icon=github&v=earthy_refresh" height="192px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true" height="192px" />
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&v=earthy_refresh" height="192px" />
 </p>
 
 <p align="center">
@@ -18,11 +18,10 @@
   <img src="https://img.shields.io/badge/TypeScript-223030?style=for-the-badge&logo=typescript&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/Python-223030?style=for-the-badge&logo=python&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/React-223030?style=for-the-badge&logo=react&logoColor=BBA58F" />
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&rank_icon=github&v=final_test_1" height="192px" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=223030&color=E8D9CD&line=523D35&point=BBA58F&area=true&area_color=523D35&hide_border=true&v=earthy_pro_final" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=223030&color=E8D9CD&line=523D35&point=BBA58F&area=true&area_color=523D35&hide_border=true" width="100%" />
 </p>
 
 
