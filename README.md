@@ -5,9 +5,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&rank_icon=github&v=earthy_refresh" height="192px" />
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&rank_icon=github&v=no_org_test" height="192px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&v=earthy_refresh" height="192px" />
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&v=no_org_test" height="192px" />
 </p>
 
 <p align="center">
