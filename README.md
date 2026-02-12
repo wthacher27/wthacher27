@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/TypeScript-223030?style=for-the-badge&logo=typescript&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/Python-223030?style=for-the-badge&logo=python&logoColor=BBA58F" />
   <img src="https://img.shields.io/badge/React-223030?style=for-the-badge&logo=react&logoColor=BBA58F" />
+  <img src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&rank_icon=github&v=final_test_1" height="192px" />
 </p>
 
 <p align="center">
