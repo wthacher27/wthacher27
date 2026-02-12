@@ -31,7 +31,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=1000&color=BBA58F&width=250&lines=🛠️+Current+Projects" />
 
 - 🔭 **Working on:**
-    - [Local Nerdle](https://github.com/wthacher27/Nerdle) — *A math-based Wordle clone.*
-    - [Vague Fitness App](https://github.com/wthacher27/548) — *Angular & Spring Boot practice.*
+  <img style="width:calc(50% - 5px); display:inline-block;" 
+         src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/pin/?username=wthacher27&repo=Nerdle&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
+         <img style="width:calc(50% - 5px); display:inline-block;" 
+         src="https://github-readme-stats-rk0ih83ud-wthachers-projects.vercel.app/pin/?username=wthacher27&repo=548&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
 - 🌱 **Learning:** Angular
 - 📫 **Reach me:** [will@thacher.net](mailto:will@thacher.net)
