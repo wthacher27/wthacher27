@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api?username=wthacher27&show_icons=github&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars,commits" height="192px" />
+  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars&rank_icon=github" height="192px" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&v=no_org_test" height="192px" />
 </p>
