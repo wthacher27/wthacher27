@@ -32,7 +32,7 @@
 
   <img src="https://img.shields.io/badge/Spring_Boot-223030?style=for-the-badge&logo=springboot&logoColor=BBA58F" />
 
-  <img src="https://img.shields.io/badge/Java-223030?style=for-the-badge&logoColor=BBA58F" />
+  <img src="https://img.shields.io/badge/Java-223030?style=for-the-badge&logo=openjdk&logoColor=BBA58F" />
 
   <img src="https://img.shields.io/badge/TypeScript-223030?style=for-the-badge&logo=typescript&logoColor=BBA58F" />
 
