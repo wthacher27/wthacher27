@@ -32,8 +32,9 @@
 
 - 🔭 **Working on:**
   <img style="width:calc(50% - 5px); display:inline-block;" 
-         src="https://github-readme-stats-dusky-eta-86.vercel.app/pin/?username=wthacher27&repo=Nerdle&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
-         <img style="width:calc(50% - 5px); display:inline-block;" 
-         src="https://github-readme-stats-dusky-eta-86.vercel.app/pin/?username=wthacher27&repo=548&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
+     src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=Nerdle&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
+
+<img style="width:calc(50% - 5px); display:inline-block;" 
+     src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=548&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
 - 🌱 **Learning:** Angular
 - 📫 **Reach me:** [will@thacher.net](mailto:will@thacher.net)
