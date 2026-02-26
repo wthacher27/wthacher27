@@ -5,9 +5,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars&rank_icon=github" height="170px" />
+  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars&rank_icon=github&hide_border=true" height="192px" />
+
   <img src="https://streak-stats.demolab.com?user=wthacher27&theme=dark&background=223030&ring=BBA58F&fire=BBA58F&currStreakNum=E8D9CD&sideLabels=959D90&stroke=223030&dates=959D90&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true" height="170px" />
+
+<img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&hide_border=true" height="192px" />
+  
   
 </p>
 
@@ -21,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=223030&color=E8D9CD&line=523D35&point=BBA58F&area=true&area_color=523D35&hide_border=true" width="100%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=wthacher27&bg_color=223030&color=E8D9CD&line=523D35&point=BBA58F&area=true&area_color=523D35&hide_border=true&v=1.1" width="100%" />
 </p>
 
 ---
