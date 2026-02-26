@@ -29,11 +29,12 @@
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=1000&color=BBA58F&width=250&lines=🛠️+Current+Projects" />
-
+<div classname="flex flex-row gap-2">
 <img style="width:calc(50% - 5px); display:inline-block;" 
      src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=Nerdle&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
 
 <img style="width:calc(50% - 5px); display:inline-block;" 
      src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=548&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
+     </div>
 - 🌱 **Learning:** Angular
 - 📫 **Reach me:** [will@thacher.net](mailto:will@thacher.net)
