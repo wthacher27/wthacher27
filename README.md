@@ -8,6 +8,15 @@
 
 ---
 
+<p align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wthacher27/wthacher27/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wthacher27/wthacher27/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/wthacher27/wthacher27/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</p>
 
 <p align="center">
 
@@ -49,9 +58,9 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=Nerdle&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=ow&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" />
 
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=548&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=SLM-Linked&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" />
 
 </p>
 <p align="center">
