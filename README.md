@@ -1,4 +1,4 @@
- <p align="left">
+<p align="left">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BBA58F&width=435&lines=Hi,+I'm+Will;I+code+sometimes" alt="Hi there" />
 
@@ -20,24 +20,18 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars&rank_icon=github&hide_border=true" height="192px" />
+  <img alt="GitHub stats" src="https://github-readme-stats-dusky-eta-86.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars&rank_icon=github&hide_border=true" height="192px" />
 
 
-  <img src="https://streak-stats.demolab.com?user=wthacher27&theme=dark&background=223030&ring=BBA58F&fire=BBA58F&currStreakNum=E8D9CD&sideLabels=959D90&stroke=223030&dates=959D90&hide_border=true" height="170px" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=wthacher27&theme=dark&background=223030&ring=BBA58F&fire=BBA58F&currStreakNum=E8D9CD&sideLabels=959D90&stroke=223030&dates=959D90&hide_border=true" height="192px" />
 
 
-<img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&hide_border=true" height="192px" />
-
-  
-
-  
+<img alt="Top languages" src="https://github-readme-stats-dusky-eta-86.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&hide_border=true" height="192px" />
 
 </p>
 
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Angular-223030?style=for-the-badge&logo=angular&logoColor=BBA58F" />
 
   <img src="https://img.shields.io/badge/Spring_Boot-223030?style=for-the-badge&logo=springboot&logoColor=BBA58F" />
 
@@ -53,19 +47,19 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=1000&color=BBA58F&width=250&lines=🛠️+Current+Projects" />
+### 🛠️ Current Projects
 
 
 <p align="center">
 
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=ow&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" />
+  <a href="https://github.com/wthacher27/ow"><img alt="ow" src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=ow&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" /></a>
 
-  <img src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=SLM-Linked&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" />
+  <a href="https://github.com/wthacher27/SLM-Linked"><img alt="SLM-Linked" src="https://github-readme-stats-dusky-eta-86.vercel.app/api/pin/?username=wthacher27&repo=SLM-Linked&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&border_radius=16&hide_border=true" width="48%" /></a>
 
 </p>
 <p align="center">
 
- <img src="https://wthacher277.vercel.app/graph?username=wthacher27&bg_color=223030&color=E8D9CD&line=523D35&point=BBA58F&area=true&area_color=523D35&hide_border=true&v=1.2" width="100%" />
+  <img alt="Contribution activity graph" src="https://wthacher277.vercel.app/graph?username=wthacher27&bg_color=223030&color=E8D9CD&line=523D35&point=BBA58F&area=true&area_color=523D35&hide_border=true&v=1.2" width="100%" />
 
 </p>
 
