@@ -19,9 +19,10 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats-seven-rho-55.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars&rank_icon=github&hide_border=true" height="170" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=wthacher27&theme=dark&background=223030&ring=BBA58F&fire=BBA58F&currStreakNum=E8D9CD&sideLabels=959D90&stroke=223030&dates=959D90&hide_border=true&card_height=170" height="170" />
-<img alt="Top languages" src="https://github-readme-stats-seven-rho-55.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&hide_border=true" height="170" />
+  <img alt="GitHub stats" src="https://github-readme-stats-seven-rho-55.vercel.app/api?username=wthacher27&show_icons=true&bg_color=223030&title_color=BBA58F&icon_color=959D90&text_color=E8D9CD&count_private=true&hide=stars&rank_icon=github&hide_border=true" width="47.1%" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=wthacher27&theme=dark&background=223030&ring=BBA58F&fire=BBA58F&currStreakNum=E8D9CD&sideLabels=959D90&stroke=223030&dates=959D90&hide_border=true&card_height=170" width="49.9%" />
+  <br />
+  <img alt="Top languages" src="https://github-readme-stats-seven-rho-55.vercel.app/api/top-langs?username=wthacher27&layout=compact&bg_color=223030&title_color=BBA58F&text_color=E8D9CD&icon_color=959D90&count_private=true&hide_border=true" width="31.2%" />
 </p>
 
 
